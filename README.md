@@ -1,4 +1,11 @@
 # TodoApp
+Veniyel Hasugian
+
+# Video Dokumentasi
+- Link YouTube : https://youtu.be/w0f519ODbjs
+- [![Watch the video](https://img.youtube.com/vi/w0f519ODbjs/hqdefault.jpg)](https://www.youtube.com/embed/w0f519ODbjs)
+
+# Dokumentasi Tertulis
 
 ## Background
 
